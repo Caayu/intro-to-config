@@ -1,1 +1,1 @@
-*.js linguist-vendored=Reason
+*.js,*.html linguist-vendored=Reason
